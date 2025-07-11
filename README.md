@@ -34,7 +34,7 @@ Simulated using EDA Playground. All five phases were successfully completed as s
 ##  How to Run
 
 1. Clone the repo or open files in [EDA Playground](https://edaplayground.com).
-2. Load all `.sv` files.
+2. Load all `.v` files.
 3. Run the testbench.
 4. Observe waveforms using EPWave viewer.
 
