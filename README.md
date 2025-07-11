@@ -22,8 +22,7 @@ If all phases are passed, the vault unlocks (`all_done = 1`).
 
 ##  Simulation Output
 
-Simulated using EDA Playground. All five phases were successfully completed as shown in waveform (`all_done = 1`).
-
+Simulated using EDA Playground. All five phases were successfully completed.
 ##  Real-World Applications
 
 - Sequential puzzle circuits
